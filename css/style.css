@@ -1,6 +1,6 @@
 /* global styling*/
 html{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Comic Sans MS';
   margin: 0rem 2rem;
   background-color: #890b0b;
 }
@@ -26,7 +26,7 @@ nav ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: grey;
+  background-color: #720303;
   top: 0;
   width: 100%;
   text-align: center;
@@ -48,18 +48,18 @@ nav li a{
 }
 
 nav li:hover{
-  background-color: orangered;
+  background-color: crimson;
 }
 
 nav #active{
-  background-color: darkgreen;
+  background-color: red;
 }
 
 /* Styling for the main section*/
 /* This is the line between the main section and footer */
 main{
   border-bottom: 3px solid;
-  color: black;
+  color: white;
 }
 
 /* H1 uses a google font. Check out https://www.w3schools.com/howto/howto_google_fonts.asp to change - also see line 9 in your html page*/
@@ -79,7 +79,8 @@ h2 {
 }
 
 p {
-  color: black;
+  color: white;
+  font-family: 'Comic Sans MS';
   font-size: 14px;
   text-align: center;
 }
