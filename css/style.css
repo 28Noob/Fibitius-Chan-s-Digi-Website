@@ -59,7 +59,7 @@ nav #active{
 /* This is the line between the main section and footer */
 main{
   border-bottom: 3px solid;
-  color: black;
+  color: white;
 }
 
 /* H1 uses a google font. Check out https://www.w3schools.com/howto/howto_google_fonts.asp to change - also see line 9 in your html page*/
@@ -79,7 +79,7 @@ h2 {
 }
 
 p {
-  color: black;
+  color: white;
   font-size: 14px;
   text-align: center;
 }
