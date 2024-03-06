@@ -1,8 +1,5 @@
 /* global styling*/
 html{
-
-  <link rel="icon" type="image/jpg" href="images/monke.jpg">
-  
   font-family: 'Comic Sans MS';
   margin: 0rem 2rem;
   background-color: #890b0b;
@@ -29,7 +26,7 @@ nav ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #720303;
+  background-color: #710302;
   top: 0;
   width: 100%;
   text-align: center;
@@ -62,7 +59,7 @@ nav #active{
 /* This is the line between the main section and footer */
 main{
   border-bottom: 3px solid;
-  color: white;
+  color: black;
 }
 
 /* H1 uses a google font. Check out https://www.w3schools.com/howto/howto_google_fonts.asp to change - also see line 9 in your html page*/
@@ -82,8 +79,7 @@ h2 {
 }
 
 p {
-  color: white;
-  font-family: 'Comic Sans MS';
+  color: black;
   font-size: 14px;
   text-align: center;
 }
